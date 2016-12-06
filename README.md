@@ -1,2 +1,2 @@
 # LearnSwift
-swift is a great language. I love it.
+Swift is a great language. I love it.
